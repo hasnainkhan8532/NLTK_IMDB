@@ -13,14 +13,14 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
-  - scipy
+  - scipy=1.11.4
   - requests
   - beautifulsoup4
   - lxml
+  - spacy
   - pip:
     - textblob
     - wordcloud
-    - spacy
     - gensim
     - transformers
     - nltk-data 
