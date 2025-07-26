@@ -1,0 +1,26 @@
+name: nltk_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - jupyter
+  - jupyterlab
+  - nltk
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - requests
+  - beautifulsoup4
+  - lxml
+  - pip:
+    - textblob
+    - wordcloud
+    - spacy
+    - gensim
+    - transformers
+    - nltk-data 
