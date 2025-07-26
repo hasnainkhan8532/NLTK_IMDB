@@ -97,4 +97,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - NLTK community for the excellent documentation
 - IMDB for providing the dataset
-- Open source community for various NLP libraries 
+- Open source community for various NLP libraries
